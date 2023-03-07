@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\c++\创建顺序表\创建顺序表\源.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  创建顺序表.vcxproj -> D:\C++\创建顺序表\Debug\创建顺序表.exe
